@@ -1,5 +1,4 @@
 const express = require('express');
-require('dotenv').config();
 const encryptRoutes = require('../routes/encryptRoutes');
 
 const app = express();
